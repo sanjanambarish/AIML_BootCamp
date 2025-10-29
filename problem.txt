@@ -1,0 +1,34 @@
+experment with depth (number of layer)
+
+model 1:
+build models with one hidden layer and train and find the find the validation accuracy 
+(128)
+
+model 2:
+build a model with 3 hidden layers and find the validation accuracy 
+(1024.512,256)
+
+model 3:
+build a model with 5 hidden layers and fine the validation accuracy
+(1024.512,256,128,64) 
+
+plot the validation accuracy for all 3 models in a single plot 
+plot the validation loss for all 3 models 
+
+
+experment with optimizers 
+
+model 1:
+build models with one SGD optimizers and train and find the find the validation accuracy 
+
+model 2:
+build a model with ADAM and find the validation accuracy 
+
+
+model 3:
+build a model with RMSprop and fine the validation accuracy
+
+plot the validation accuracy for all 3 models in a single plot 
+plot the validation loss for all 3 models 
+
+Note : use different model name for each model.
